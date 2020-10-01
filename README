@@ -1,6 +1,6 @@
 README
 
-The Advanced Calculator tool supports everything Gnome calculator supports, plus the following extensions:
+The Advanced Calculator tool is a Javascript based tool which supports everything Gnome calculator supports, plus the following extensions:
 
 The phrase 'pi' (single quotes included) can be used to denote the constant (3.14159...)
 
